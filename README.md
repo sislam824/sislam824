@@ -26,5 +26,11 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind CSS" width="40" height="40">
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sislam824&show_icons=true&locale=en&layout=compact" alt="sislam824" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sislam824&show_icons=true&locale=en" alt="sislam824" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sislam824&" alt="sislam824" /></p>
+
 
 
