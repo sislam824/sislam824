@@ -3,11 +3,10 @@
 <h1>About me</h1>
 <p>Aspiring full stack web developer. Self-motivated and curious with a keen interest in building user-friendly projects.</p>
 
-<p align="left" font >Like to build user friendly products and web applications with a specialization in MERN stack.</p>
+<p align="left" font >Like to build user friendly products and web applications .</p>
 
 
 - 🔭 I’m currently working on My existing Projects
-
 
 - 🌱 I’m currently learning Html & css
 
