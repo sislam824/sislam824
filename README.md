@@ -1,20 +1,19 @@
 <p>Hi There👋</p>
-<h1>I'm mohd Saiful Islam</h1>
+<h1>I'm Mohd Saiful Islam</h1>
 <h1>About me</h1>
-<p>Aspiring full stack web developer. Self-motivated and curious with a keen interest in building user-friendly projects.</p>
+Aspiring full stack web developer at Masai school. Self-motivated and curious with a keen interest in building user-friendly projects.
 
-<p align="left" font >Like to build user friendly products and web applications .</p>
+Like to build user friendly products and web applications with a specialization in MERN stack.
 
+🔭 I’m currently working on My existing Projects
 
-- 🔭 I’m currently working on My existing Projects
+🌱 I’m currently learning Node,Express
 
-- 🌱 I’m currently learning Html & css
+👯 I’m looking to collaborate on Substantial projects
 
-- 👯 I’m looking to collaborate on Substantial projects
+💬 Ask me about Javascript,React.js
 
-- 💬 Ask me about Javascript,
-
-- ⚡ Fun fact The word engineer comes from a Latin word meaning cleverness.
+⚡ Fun fact The word engineer comes from a Latin word meaning cleverness.
 
 
 <h3 align="left">Languages and Tools:</h3>
