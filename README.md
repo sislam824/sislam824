@@ -24,7 +24,8 @@ Like to build user friendly products and web applications with a specialization 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React CSS" width="40" height="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original-wordmark.svg" alt="javaScript CSS" width="40" height="40">
+![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original-wordmark.svg)
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sislam824&show_icons=true&locale=en&layout=compact" alt="sislam824" /></p>
 
