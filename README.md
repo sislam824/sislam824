@@ -125,7 +125,7 @@
       width="40"
     />
   </a>
-  <a href="https://www.linkedin.com/in/soumyasubhampatra/" target="blank">
+  <a href="https://www.linkedin.com/in/mohd-saiful-islam-1b4990309/" target="blank">
     <img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
